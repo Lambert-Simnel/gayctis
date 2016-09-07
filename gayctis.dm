@@ -7,6 +7,9 @@
 #name "Snek Charm"
 #descr "Snek's gonna snek."
 #def 0
+#nofind
+#cursed
+#end
 
 -- Lizard Seducer
 #newmonster NEEDNUMBER
