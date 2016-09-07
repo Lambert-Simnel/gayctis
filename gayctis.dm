@@ -1,3 +1,13 @@
+-- Snek charm (Modified cat's charm)
+
+#newitem
+#copyitem 260
+#copyspr 283
+#constlevel 12
+#name "Snek Charm"
+#descr "Snek's gonna snek."
+#def 0
+
 -- Lizard Seducer
 #newmonster NEEDNUMBER
 #name "Sexy Lizard Seducer"
@@ -26,5 +36,6 @@
 #swampsurvival
 #noleader
 #magicskill 7 1
+#startitem "Snek Charm"
 #weapon 318 ---  / Snake staff
 #end
