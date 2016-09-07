@@ -16,8 +16,8 @@
 #name "Sexy Lizard Seducer"
 #spr1 "NEEDSPRITE"
 #spr2 "NEEDSPRITE"
-#itemslots 15494
-#gcost 100
+#itemslots 31878
+#gcost 10010
 #ap 11
 #mapmove 2
 #mor 14
